@@ -2,7 +2,6 @@
 
 ![image](https://avatars.githubusercontent.com/u/142581465?v=4)
 
-A simple overview of the use/purpose of the project.
 
 ## Description
 
