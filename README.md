@@ -26,10 +26,10 @@ You can list a the tech stack that you've used over here
 
 There is no dependencies required just clone the repo and you are good to go!
 
-1. Clone the repo:
+1. Clone the repo using Github CLI:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+gh repo clone X7-C/Portfolio-1
 ```
 
 ### Running
