@@ -15,12 +15,10 @@ Here is some things worth mentioning about this:
 
 ## Built With
 
-You can list a the tech stack that you've used over here
+Here is the Languages ive used:
 
 - Dry CSS
 - Dry HTML
-
-## Getting Started
 
 ### Installing
 
